@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Author: Martine Elzinga
+# Date: 29.03.2022
+# File name: initial.sh
+# The initial analysis, comparing the frequency of 'awkward' and 'genant' in the karora twitter database.
+# It compares five days, and adds them.
+
 function genant {
     echo 'Total occurences of "genant":'
 
