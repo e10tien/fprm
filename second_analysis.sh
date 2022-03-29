@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Author: Martine Elzinga
+# Date: 29.02.2022
+# File name: second_analysis.sh
+# Compares frequency of 'genant' versus 'awkward' in the karora database.
+
 function genant {
     echo 'Total occurences of "genant":'
 
