@@ -6,9 +6,8 @@ This repository contains the scripts used for a study about the usage of 'awkwar
 
 Make sure the bash files is executable: \
   ```$ chmod u+x extract_text.sh``` \
-  ```$ chmod u+x extract_later_dates.sh``` \
+  ```$ chmod u+x extract_later_dates.sh```
 
 Execute the files: \
   ```$ ./extract_text.sh``` \ 
-  ```$ ./extract_later_dates.sh``` \
-  
+  ```$ ./extract_later_dates.sh```
