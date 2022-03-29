@@ -9,5 +9,5 @@ Make sure the bash files is executable: \
   ```$ chmod u+x extract_later_dates.sh```
 
 Execute the files: \
-  ```$ ./extract_text.sh``` \ 
+  ```$ ./extract_text.sh``` \
   ```$ ./extract_later_dates.sh```
