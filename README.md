@@ -10,9 +10,9 @@ Here replace 1234567 with your studentnumber, or personnelnumber (for the latter
 ## How to execute the code:
 
 Make sure the bash files is executable: \
-  ```$ chmod u+x extract_text.sh``` \
-  ```$ chmod u+x extract_later_dates.sh```
+  ```$ chmod u+x initial.sh``` \
+  ```$ chmod u+x second_analysis.sh```
 
 Execute the files: \
-  ```$ ./extract_text.sh``` \
-  ```$ ./extract_later_dates.sh```
+  ```$ ./initial.sh``` \
+  ```$ ./second_analysis.sh```
