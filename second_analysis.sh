@@ -16,7 +16,7 @@ function genant {
     DAY2=`zless /net/corpora/twitter2/Tweets/2021/12/20211213:*.out.gz | \
     /net/corpora/twitter2/tools/tweet2tab text | \
     grep -iw 'genant' | \
-    grep -v ^'RT'`
+    grep -v ^'RT' | wc -l`
 
     DAY3=`zless /net/corpora/twitter2/Tweets/2021/12/20211219:*.out.gz | \
     /net/corpora/twitter2/tools/tweet2tab text | \
